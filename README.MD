@@ -1,4 +1,3 @@
-```markdown
 # E-Commerce UrbanDrip
 
 ## Project Overview
